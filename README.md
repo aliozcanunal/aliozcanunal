@@ -68,9 +68,6 @@
         <a align="right" href="https://github.com/aliozcanunal/Visualization-of-Covid-19-Data" title="Visualization-of-Covid-19-Data"><img
                 align="right" height="115"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=aliozcanunal&repo=Visualization-of-Covid-19-Data&theme=gotham"></a>
-        <a align="left" href="https://github.com/aliozcanunal/SpeedTest" title="cExamples"><img
-                align="left" height="115"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=aliozcanunal&repo=SpeedTest&theme=gotham"></a>
        <a align="right" href="https://github.com/aliozcanunal/EEG-Symbols-and-Footprints" title="EEG-Symbols-and-Footprints"><img
                 align="right" height="115"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=aliozcanunal&repo=EEG-Symbols-and-Footprints&theme=gotham"></a>
