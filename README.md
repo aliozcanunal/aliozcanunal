@@ -62,7 +62,7 @@
 <br><br>
 <div>
     <p width="100%" align="center">
-        <a align="left" href="https://github.com/aliozcanunal/8-Channel-Wireless-EEG" title="8-Channel-Wireless-EEG"><img
+        <a align="left" href="https://github.com/aliozcanunal/codier" title="Codier"><img
                 align="left" height="115"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=aliozcanunal&repo=8-Channel-Wireless-EEG&theme=gotham"></a>
         <a align="right" href="https://github.com/aliozcanunal/Visualization-of-Covid-19-Data" title="Visualization-of-Covid-19-Data"><img
